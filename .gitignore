@@ -1,0 +1,5 @@
+# env
+.env
+
+# mode modules
+/node_modules/
