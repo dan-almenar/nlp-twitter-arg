@@ -3,3 +3,6 @@
 
 # mode modules
 /node_modules/
+
+# temporary adding the models folder and its files
+/models/

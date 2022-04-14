@@ -10,7 +10,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 
 // twitter streaming api
-const { startStream } = require('./middleware/client');
+const { startStream } = require('./services/client');
 
 var app = express();
 
